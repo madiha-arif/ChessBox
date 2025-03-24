@@ -1,0 +1,14 @@
+.p{
+    display: inline-block;
+    margin: 0px;
+}
+.r{
+    height: 100px;
+    width: 100px;
+    background-color: #ff0000;
+}
+.b{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
